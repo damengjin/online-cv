@@ -36,15 +36,20 @@ sidebar:
         level: Entry-Level
 
     interests:
-      - item: Climbing
+      - item: Stage Directing/Acting
         link:
 
-      - item: Snowboarding
+      - item: Sketching/Drawing
         link:
 
+      - item: Swimming/Boxing/Gym
+        link:
+
+      - item: Singing
+        link:
+              
       - item: Cooking
         link:
-
 career-profile:
     title: Career Profile
     summary: |
@@ -102,13 +107,19 @@ experiences:
           improved the overall gaming speed by 1.8 hands/hour, 8% in terms of revenue; 
           
     - role: Research Engineer/Assistant
-      time: Sep. 2017 - May. 2015
-      company: Google, London
+      time: Sep. 2017 - May. 2019
+      company: National University of Singapore, Department of Strategy and Policy
       details: |
-        Developed a web application using JavaScript (Vue framework in Visual Studio Code) for a psychological lab experiment, which simulates the supermarket cashiers’ job; conducted 6 pilot lab experiments on 60 subjects while monitoring their heart rates; researched on quantifying the monetary value of stress using the lab results; Worked as a team, developed and published a mobile app “HawkerPro” using JavaScript (Flutter in Visual Studio Code) for the stall owners at the local hawker centers to manage and visualize their daily or weekly expense and sales, which has 500 downloaders; 
+        Researched on quantifying the monetary value of stress level:
+          - Developed a web application using Vue framework in Visual Studio Code, mimicing the
+          cashier's job in a psychological lab experiment; conducted 6 pilot lab experiments on 
+          60 subjects while monitoring their heart rates;  Worked 
+        as a team, developed and published a mobile app “HawkerPro” using JavaScript (Flutter 
+        in Visual Studio Code) for the stall owners at the local hawker centers to manage and 
+        visualize their daily or weekly expense and sales, which has 500 downloaders; 
+
           - Bullet point
-          - Bullet point
-      details: |
+
         Collected raw physiological data of the soldiers from laboratory after the marching trials; cleaned and delivered high-quality data efficiently using Excel; developed a mathematical predictive model in MATLAB, based on the heat transfer principle, to forecast the human body core temperature with above 90% accuracy and provided valuable insights on soldiers’ physical status in advance to prevent them from heat injury; Collaborated with DSO technology team to embed the predictive model inside their deployed interactive UI, using C#, allowing DSO commanders effectively design the outdoor trainings based on the forecasting model;
           - Bullet point
           - Bullet point
