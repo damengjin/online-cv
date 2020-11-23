@@ -78,21 +78,28 @@ education:
           - Honors with Distinction (SM2 Scholarship from MOE)
           - Dean's List (Top 5%) AY 2012-2013, AY2014-2015
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Analyst
+      time: May. 2019 - Present
+      company: Marina Bay Sands (Casino), Revenue Optimisation
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
+        Provided daily and monthly in-depth analysis (or post and ad-hoc analysis) 
+        and revenue tracking of the gaming products and promotions, incorporating 
+        various statistical methodologies (such as regression, classification models,
+         and cluster analysis in python) to determine the most profitable products 
+        and patrons, and to predict churn possibilities of the customers; Maintained 
+        the database and created data pipelines to preprocess the data for further 
+        analysis based on stakeholder’s ad-hoc request;
+          - Automated alerts to help Casino operation team to identify and approach 
+          profitable patrons in real-time using Store procedures and ETL, which 
+          gained 23% of incremental play;
+          - Calculated Bingo probabilities to design marketing campaigns for local 
+          market activation after covid-19, which increased local retailing revenue 
+          by 19%, and gaming revenue by 7%; 
+          - Designed a reward program motivating table game dealers to deal faster, 
+          which improved the overall gaming speed by 1.8 hands/hour, 8% in terms of 
+          revenue; 
+          - Generated real-time patron location dashboard (Tableau) on Casino floors 
+          to track and understand customer behavior;
     - role: Senior Software Engineer
       time: 2014 - 2015
       company: Google, London
