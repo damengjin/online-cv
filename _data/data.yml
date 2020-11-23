@@ -8,15 +8,15 @@ sidebar:
 
     # Profile information
     name: WANG Jin
-    tagline: Data Analyst (Singaporean)
+    tagline: Data Analyst (Singapore Citizen)
     avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: davidwangjin93@gmail.com
     phone: (+65) 87405288
     website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
+    linkedin: wangjin
+    github: damengjin
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
@@ -82,33 +82,34 @@ experiences:
       time: May. 2019 - Present
       company: Marina Bay Sands (Casino), Revenue Optimisation
       details: |
-        Provided daily and monthly in-depth analysis (or post and ad-hoc analysis) 
-        and revenue tracking of the gaming products and promotions, incorporating 
-        various statistical methodologies (such as regression, classification models,
-         and cluster analysis in python) to determine the most profitable products 
-        and patrons, and to predict churn possibilities of the customers; Maintained 
-        the database and created data pipelines to preprocess the data for further 
-        analysis based on stakeholder’s ad-hoc request;
-          - Automated alerts to help Casino operation team to identify and approach 
-          profitable patrons in real-time using Store procedures and ETL, which 
-          gained 23% of incremental play;
-          - Calculated Bingo probabilities to design marketing campaigns for local 
-          market activation after covid-19, which increased local retailing revenue 
-          by 19%, and gaming revenue by 7%; 
-          - Designed a reward program motivating table game dealers to deal faster, 
-          which improved the overall gaming speed by 1.8 hands/hour, 8% in terms of 
-          revenue; 
-          - Generated real-time patron location dashboard (Tableau) on Casino floors 
-          to track and understand customer behavior;
-    - role: Senior Software Engineer
-      time: 2014 - 2015
+        Provided daily/monthly in-depth analysis and revenue tracking of the gaming products, 
+        promotions, incorporating various statistical methodologies; identified the profitable 
+        products, campaigns to offer patrons personalized recommendations; studied patrons'
+        life cycle to predict their churn possibilities; Maintained the database and created 
+        ETL pipelines to preprocess the data for further ad-hoc request;
+          - Built a hybrid recommendation system with CF and content based technics to 
+          send out personalized offers of various retail and F&B stores; increased offer 
+          response rate by 19%;
+          - Automated an alert system to help Casino operation team to identify and approach 
+          profitable patrons in real-time using SQL Store procedures and ETL, which gained 
+          23% of incremental Casino revenue;
+          - Generated real-time patron location dashboard with Tableau to track patron route
+          on Casino floors and better understand patrons' play pattern;
+          - Designed Bingo card and calculated probabilities for marketing team to activate
+          local market after covid-19, which increased local retailing revenue by 12%, and 
+          gaming revenue by 7%; 
+          - Designed a reward program motivating table game dealers to deal faster, which 
+          improved the overall gaming speed by 1.8 hands/hour, 8% in terms of revenue; 
+          
+    - role: Research Engineer/Assistant
+      time: Sep. 2017 - May. 2015
       company: Google, London
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        Developed a web application using JavaScript (Vue framework in Visual Studio Code) for a psychological lab experiment, which simulates the supermarket cashiers’ job; conducted 6 pilot lab experiments on 60 subjects while monitoring their heart rates; researched on quantifying the monetary value of stress using the lab results; Worked as a team, developed and published a mobile app “HawkerPro” using JavaScript (Flutter in Visual Studio Code) for the stall owners at the local hawker centers to manage and visualize their daily or weekly expense and sales, which has 500 downloaders; 
+          - Bullet point
+          - Bullet point
+      details: |
+        Collected raw physiological data of the soldiers from laboratory after the marching trials; cleaned and delivered high-quality data efficiently using Excel; developed a mathematical predictive model in MATLAB, based on the heat transfer principle, to forecast the human body core temperature with above 90% accuracy and provided valuable insights on soldiers’ physical status in advance to prevent them from heat injury; Collaborated with DSO technology team to embed the predictive model inside their deployed interactive UI, using C#, allowing DSO commanders effectively design the outdoor trainings based on the forecasting model;
           - Bullet point
           - Bullet point
     - role: UI Developer
