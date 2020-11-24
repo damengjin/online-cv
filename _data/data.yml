@@ -131,17 +131,23 @@ experiences:
 projects:
     title: Projects
     intro: >
-      Worked on 
+      Worked on the following projects either individually or as a team, harnessing skills as a
+      Data Analyst; areas of interest includes: recommendation system, customer behavior study,
+      computer vision, and data visualization (but not limited to).    
     assignments:
-      - title: Personalized Shopping Recommender
+      - title: Personalized Shopping Recommender (PSR)
         link: "//github.com/damengjin/Personalized-Shopping-Recommender"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "The PSR provided personalized recommendations for existing and new users with 
+        minimized error, using SVDpp and K-nn family algorithms; top N recommended items for the
+        targeting user and top N similar users were the deliverables for the SaaS web application;
+        A front end web application was also developed for the SaaS project"
+        link: "//github.com/damengjin/vgame_recommender"
 
-      - title: DevStudio
+      - title: Image Classification model on Movie Posters
         link: "#"
         tagline: "A responsive website template designed to help web developers/designers market their services."
 
-      - title: Tempo
+      - title: Patron Clustering and Churn Prediction
         link: "#"
         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
@@ -153,25 +159,25 @@ projects:
         link: "#"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-publications:
-    title: Publications
-    intro: |
-      Worked 
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+# publications:
+#     title: Publications
+#     intro: |
+#       Worked 
+#     papers:
+#       - title: The Art of Computer Programming
+#         link: "#"
+#         authors: Donald E. Knuth
+#         conference: Addison-Wesley, 1968
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+#       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+#         link: "#"
+#         authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+#         conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+#       - title: A syntax directed compiler for Algol 60
+#         link: "#"
+#         authors: Edgar T. Irons
+#         conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
