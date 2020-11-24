@@ -141,7 +141,6 @@ projects:
         minimized error, using SVDpp and K-nn family algorithms; top N recommended items for the
         targeting user and top N similar users were the deliverables for the SaaS web application;
         A front end web application was also developed for the SaaS project"
-        link: "//github.com/damengjin/vgame_recommender"
 
       - title: Image Classification model on Movie Posters
         link: "#"
@@ -156,13 +155,21 @@ projects:
         intense offers were required to prevent the patron from churning; test group shows 47% less churn 
         rate then the control group;"
 
-      - title: Atom
+      - title: Real-time Alert System
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        tagline: "Queried the inhouse data using sophisticated SQL every 5 minutes using stored procedures, 
+        to spot any patrons who hadn’t been assigned a host from operation team yet had a qualified inhouse 
+        play with high average bet or win/loss amount; Alerts would be sent to the hosts automatically, 
+        enabling them to motivate alerted patrons for future play; 80% of these alerted patron showed 
+        incremental play afterwards, and 65% of them reached higher membership tier, contributing 23% more 
+        gaming revenue;"
 
-      - title: Delta
+      - title: Patron On-floor Live Dashboard
         link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "Queried and updated the inhouse data directly then fed into Tableau server to create a 
+        dashboard that shows the real-time location of the patron over the floor map; provided detailed 
+        gaming metrics (played duration, average bet, win-loss) of the patron to help operation understand 
+        patron behavior and approach the patron on time while they are still inside Casino;"
 
 # publications:
 #     title: Publications
