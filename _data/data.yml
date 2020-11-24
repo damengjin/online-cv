@@ -131,12 +131,10 @@ experiences:
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Worked on 
     assignments:
-      - title: Velocity
-        link: "#hook"
+      - title: Personalized Shopping Recommender
+        link: "//github.com/damengjin/Personalized-Shopping-Recommender"
         tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
       - title: DevStudio
@@ -158,9 +156,7 @@ projects:
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      Worked 
     papers:
       - title: The Art of Computer Programming
         link: "#"
