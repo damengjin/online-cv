@@ -149,7 +149,12 @@ projects:
 
       - title: Patron Clustering and Churn Prediction
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "Performed clustering on patron base, provided personalized recommendation on retail 
+        and F&B campaign offers; Tailored offers saw an increased redemption rate by 39%YoY, and retail 
+        revenue was up by 32% YoY; Patron retail trip cycles and gaming behavior were studied, a churn 
+        prediction model (logit regression and random forest) was built afterwards to decide whether more 
+        intense offers were required to prevent the patron from churning; test group shows 47% less churn 
+        rate then the control group;"
 
       - title: Atom
         link: "#"
