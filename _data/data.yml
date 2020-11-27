@@ -143,7 +143,7 @@ projects:
         A front end web application was also developed for the SaaS project"
 
       - title: Image Classification model on Movie Posters
-        link: "//www.samsung.com/us/computing/monitors/gaming/32--odyssey-g7-gaming-monitor-lc32g75tqsnxza/"
+        link: "//github.com/damengjin/Image_Classification_Movie_posters"
         tagline: "A responsive website template designed to help web developers/designers market their services."
 
       - title: Patron Clustering and Churn Prediction
