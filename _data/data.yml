@@ -144,7 +144,7 @@ projects:
 
       - title: Image Classification model on Movie Posters
         link: "//github.com/damengjin/Image_Classification_Movie_posters"
-        tagline: "Built a classification model on 16K movie posters"
+        tagline: "Built a classification model on 16,000 movie posters, adopting transfer learning"
 
       - title: Patron Clustering and Churn Prediction
         link: "#"
