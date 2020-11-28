@@ -50,15 +50,16 @@ sidebar:
               
       - item: Cooking
         link:
+
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Enthusiastic Data Analyst with 3+ years of experience leveraging Python, SQL,
+      and Tableau to translate data into business insights, to build interactive 
+      dashboard for stakeholders to keep track of products and customers, and to 
+      make decisions to drive revenue growth; A detail oriented person, very good
+      learner and team contributor;
+      
 education:
     - degree: MSc. in Business Analytics (MSBA)
       university: National University of Singapore
