@@ -137,19 +137,25 @@ projects:
     assignments:
       - title: Personalized Shopping Recommender (PSR)
         link: "//github.com/damengjin/Personalized-Shopping-Recommender"
-        tagline: "The PSR provided personalized recommendations for existing and new users with 
-        minimized error, using SVDpp and K-nn family algorithms; top N recommended items for the
-        targeting user and top N similar users were the deliverables for the SaaS web application;
-        A front end web application was also developed for the SaaS project"
+        tagline: "The PSR provided personalized recommendations for both existing and new users 
+        (solved cold start problem) with SVDpp and K-nn family algorithms; the recommender was able
+        to predict top recommended items and top similar users for the targeting user, then deliver
+        the output to the back-end SaaS web application; besides the recommender, a front end web application 
+        was also developed for the SaaS project;"
 
       - title: Image Classification model on Movie Posters
         link: "//github.com/damengjin/Image_Classification_Movie_posters"
-        tagline: "Built a classification model on 16,000 movie posters, adopting transfer learning"
+        tagline: "Built a classification model on 16,000 movie posters, adopting image augmentation
+        to prevent overfitting, various neural-networks, and transfer learning with pretrained 
+        VGG-16 and inception models to boost up training speed; explored and visualized the intermediate 
+        layers, and eventually visualized the discriminative region using class activation maps on
+        movie posters; some insights were gained despite the correlation between poster and comment
+        was not strong enough (62% accuracy);"
 
       - title: Patron Clustering and Churn Prediction
         link: "#"
         tagline: "Performed clustering on patron base, provided personalized recommendation on retail 
-        and F&B campaign offers; Tailored offers saw an increased redemption rate by 39%YoY, and retail 
+        and F&B campaign offers; Tailored offers saw an increased redemption rate by 39% YoY, and retail 
         revenue was up by 32% YoY; Patron retail trip cycles and gaming behavior were studied, a churn 
         prediction model (logit regression and random forest) was built afterwards to decide whether more 
         intense offers were required to prevent the patron from churning; test group shows 47% less churn 
@@ -195,20 +201,23 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: SAS & SQL (ETL & pre-processing pipeline)
+        level: 90%
 
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
+      - name: Python & R (statistical models, recommender, segmentation, computer vision, NLP)
         level: 85%
+
+      - name: Tableau & Spotfire (Visualization & Dashboard)
+        level: 90%
+
+      - name: Javascript & HTML5 & CSS (self-learning for front-end web app design)
+        level: 40%
+
+      - name: Office Software (Word, PPT, and Excel)
+        level: 90%
+
+      - name: Matlab
+        level: 80%
 
       - name: Sketch & Photoshop
         level: 60%
